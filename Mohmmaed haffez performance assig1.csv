@@ -1,0 +1,50 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Mohammed Haffez,28/08/2006,T20,England,England,no,yes,England,Not good,avrage,Avrage,sunny,green,out,3,46
+Mohammed Haffez,2/2/2007,T20,South Africa,pak,yes,no,South Africa,Avrage,Good,Avrage,sunny,dusty,out,3,25
+Mohammed Haffez,4/9/2007,T20,Kenya,kenya,yes,no,No one ,Amzaing,Good,Avrage,windy,Hard,out,3,12
+Mohammed Haffez,12/9/2007,T20,Scotland,pak,no,yes,scotland,Good,Good,Avrage,normal,dry,out,3,37
+Mohammed Haffez,14/10/2008,T20,canada,pak,no,no,canda,Amazing ,avrage,Avrage,sunny,dry,in,3,54*
+Mohammed Haffez,17/02/10,T20,Bangladesh,pak,no,yes,banglades,Avrage,avrage,Avrage,sunny,dry,out,2,21
+Mohammed Haffez,18/02/10,T20,South Africa,pak,no,yes,South Africa,Avrage,avrage,Avrage,sunny,dusty,out,3,11
+Mohammed Haffez,22/02/10,T20,England,pak,no,yes,England,Avrage,avrage,satifactory,sunny,dry,out,3,0
+Mohammed Haffez,29/02/11,T20,india,pak,no,yes,No one ,Good,avrage,satifactory,normal,dry,out,3,22
+Mohammed Haffez,11/6/2014,T20,Bangladesh,pak,no,yes,banglades,Good,avrage,satifactory,sunny,dry,out,1,32
+Mohammed Haffez,17/02/11,T20,srilanka,pak,yes,no,srilnka,poor,avrage,satifactory,sunny,dry,out,3,54
+Mohammed Haffez,17/03/11,T20,England,pak,no,yes,England,good,Good,satifactory,sunny,dry,out,3,29
+Mohammed Haffez,19/03/11,T20,Kenya,pak,yes,no,kenya,good,Good,satifactory,sunny,dry,out,3,11
+Mohammed Haffez,21/03/12,T20,canada,pak,no,yes,canda,normal,Good,satifactory,normal,dusty,in,3,1*
+Mohammed Haffez,24/03/12,T20,England,pak,no,yes,England,Excelent,avrage,satifactory,sunny,dry,out,3,32
+Mohammed Haffez,27/02/12,T20,South Africa,pak,no,yes,South Africa,normal,avrage,satifactory,sunny,dry,out,3,15
+Mohammed Haffez,29/02/12,T20,England,pak,no,yes,England,normal,avrage,satifactory,sunny,dry,out,1,45
+Mohammed Haffez,17/04/12,T20,Kenya,pak,no,yes,kenya,normal,fine,satifactory,normal,hard,out,3,79
+Mohammed Haffez,17/06/12,T20,india,pak,no,yes,india,Excelent,fine,not satisfied,sunny,dry,out,3,3
+Mohammed Haffez,17/06/13,T20,Bangladesh,pak,yes,no,banglades,normal,fine,not satisfied,sunny,dry,out,3,22
+Mohammed Haffez,17/06/14,T20,srilanka,pak,yes,no,pakistan,poor,poor,not satisfied,sunny,dry,out,3,39
+Mohammed Haffez,17/06/14,T20,srilanka,pak,no,yes,pakistan,normal,poor,not satisfied,rainy,dry,out,3,21
+Mohammed Haffez,17/06/14,T20,srilanka,pak,no,yes,pakistan,normal,poor,not satisfied,sunny,dry,out,3,7
+Mohammed Haffez,17/06/14,T20,England,pak,no,yes,England,normal,normal,not satisfied,sunny,green,out,3,27
+Mohammed Haffez,17/06/15,T20,Kenya,pak,no,yes,kenya,poor,normal,not satisfied,overcast,dry,out,3,53
+Mohammed Haffez,17/06/16,T20,india,pak,yes,no,india,normal,normal,avrage,sunny,dry,out,3,67
+Mohammed Haffez,17/06/16,T20,South Africa,pak,no,yes,South Africa,normal,Normal,avrage,sunny,green,in,3,*72
+Mohammed Haffez,17/06/16,T20,srilanka,pak,no,yes,srilnka,normal,Normal,avrage,sunny,dry,out,3,11
+Mohammed Haffez,17/06/16,T20,Bangladesh,pak,no,yes,banglades,normal,Normal,avrage,sunny,dry,out,3,7
+Mohammed Haffez,17/06/16,T20,srilanka,pak,no,yes,srilnka,normal,Normal,avrage,sunny,dry,out,3,33
+Mohammed Haffez,17/06/16,T20,india,pak,no,yes,india,normal,Normal,avrage,sunny,dry,out,3,14
+Mohammed Haffez,17/06/16,T20,Bangladesh,pak,yes,no,banglades,good,poor,poor,windy,dry,out,3,11
+Mohammed Haffez,17/06/16,T20,canada,pak,no,yes,canda,normal,poor,poor,sunny,dry,out,5,7
+Mohammed Haffez,17/06/16,T20,Scotland,pak,no,yes,scotland,normal,poor,poor,sunny,hard,out,3,10
+Mohammed Haffez,17/06/17,T20,Scotland,pak,no,yes,scotland,good,poor,poor,sunny,dry,in,3,12*
+Mohammed Haffez,17/06/17,T20,Scotland,pak,no,yes,scotland,normal,poor,poor,sunny,dry,out,3,31
+Mohammed Haffez,17/06/17,T20,srilanka,pak,no,yes,srilnka,normal,poor,poor,sunny,dry,out,3,22
+Mohammed Haffez,17/06/17,T20,Bangladesh,pak,no,yes,banglades,normal,poor,not satisfied,sunny,dry,out,3,45
+Mohammed Haffez,17/06/17,T20,canada,pak,no,yes,canda,Avrage,poor,not satisfied,sunny,hard,out,3,33
+Mohammed Haffez,17/06/17,T20,srilanka,pak,yes,no,srilnka,normal,fine,not satisfied,sunny,dry,in,5,57*
+Mohammed Haffez,17/06/17,T20,Scotland,pak,no,yes,scotland,Avrage,fine,not satisfied,sunny,dry,out,3,21
+Mohammed Haffez,17/12/17,T20,South Africa,pak,yes,no,South Africa,normal,fine,not satisfied,sunny,green,out,3,29
+Mohammed Haffez,17/02/17,T20,Austarlia,pak,no,yes,Austarlia,poor,fine,not satisfied,sunny,dry,out,5,41
+Mohammed Haffez,17/02/17,T20,Austarlia,pak,no,yes,Austarlia,normal,fine,Avrage,sunny,dry,out,3,49
+Mohammed Haffez,17/02/16,T20,Austarlia,pak,yes,no,Austarlia,normal,avrage,Avrage,sunny,green,out,3,55
+Mohammed Haffez,17/03/18,T20,srilanka,pak,no,yes,srilnka,normal,avrage,Avrage,sunny,green,out,1,1
+Mohammed Haffez,17/04/18,T20,Bangladesh,pak,no,yes,banglades,poor,poor,Avrage,sunny,dry,out,3,0
+Mohammed Haffez,17/05/18,T20,india,pak,yes,no,india,poor,poor,Avrage,sunny,dry,out,3,3
+Mohammed Haffez,17/06/18,T20,srilanka,pak,no,yes,srilnka,poor,poor,Avrage,sunny,dry,out,3,55
